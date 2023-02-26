@@ -64,9 +64,3 @@ keyElements.forEach((key) => {
 });
 
 window.addEventListener('keydown', playSound);
-
-// keyElements.forEach((element) => {
-//   element.addEventListener('click', (event) => {
-//     console.log(event);
-//   });
-// });

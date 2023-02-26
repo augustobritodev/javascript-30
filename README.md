@@ -1,36 +1,5 @@
 # JS 30
 
-This is a repository which would contain my solved challenges from course [30 Day Vanilla JS Coding Challenge](https://javascript30.com/).
+This is a repository which would contains solved challenges from [30 Day Vanilla JS Coding Challenge](https://javascript30.com/).
 
-## :clipboard: Table of contents
-
-[Javascript Drum Kit](https://augustobrit.github.io/js-30/javascript-drum-kit)
-[CSS + JS Clock](https://augustobrit.github.io/js-30/css-js-clock)
-[Playing With CSS Variables and JS](https://augustobrit.github.io/js-30/playing-with-css-variables-js)
-[Array Cardio Day 1](https://augustobrit.github.io/js-30/array-cardio-day-one)
-[Flex Panels Image Gallery](https://augustobrit.github.io/js-30/flex-panels-image-gallery)
-[AJAX Type Ahead](https://augustobrit.github.io/js-30/ajax-type-ahead)
-[Array Cardio Day 2](https://augustobrit.github.io/js-30/array-cardio-day-two)
-[Fun With HTML5 Canvas](https://augustobrit.github.io/js-30/fun-with-html-canvas)
-[14 Must Know Dev Tools Tricks](https://augustobrit.github.io/js-30/must-know-dev-tricks)
-[Hold Shift to Check Multiple Checkboxes](https://augustobrit.github.io/js-30/holder-shift-checkboxes)
-[Custom HTML5 Video Player](https://augustobrit.github.io/js-30/custom-video-player)
-[Key Sequence detection (KONAMI Code)](https://augustobrit.github.io/js-30/konami-code)
-[Slide in on Scroll](https://augustobrit.github.io/js-30/slide-in-on-scroll)
-[Object and Arrays - Reference vs Copy](https://augustobrit.github.io/js-30/reference-vs-copy)
-[Localstorage and Event Delegation](https://augustobrit.github.io/js-30/localstorage-event-delegation)
-[CSS Text Shadow Mouse Move Effect](https://augustobrit.github.io/js-30/css-txt-shadow)
-[Sorting Band Names Without Articles](https://augustobrit.github.io/js-30/sorting-band-names)
-[Tally String Times With Reduce](https://augustobrit.github.io/js-30/tally-string-times)
-[Unreal Webcam Fun](https://augustobrit.github.io/js-30/unreal-webcam-fun)
-[Native Speech Recognition](https://augustobrit.github.io/js-30/native-speech-recog)
-[Geolocation-based Speedometer and Compass](https://augustobrit.github.io/js-30/geolocation-speedometer-compass)
-[Follow along Links](https://augustobrit.github.io/js-30/follow-along-links)
-[Speech Synthesis](https://augustobrit.github.io/js-30/speech-synth)
-[Sticky Nav](https://augustobrit.github.io/js-30/sticky-nav)
-[Event Capture, Propagation, Bubbling and Once](https://augustobrit.github.io/js-30/event-captura-propagation)
-[Stripe Follow along Dropdown](https://augustobrit.github.io/js-30/stripe-follow-along)
-[Click and Drag to Scroll](https://augustobrit.github.io/js-30/click-drag-scroll)
-[Video Speed Controller UI](https://augustobrit.github.io/js-30/video-speed-controller)
-[Countdown Clock](https://augustobrit.github.io/js-30/countdown-clock)
-[Whack a Mole Game](https://augustobrit.github.io/js-30/whack-mole-game)
+> The challenge consists of 30 projects in 30 days with no frameworks or libraries, just JavaScript, HTML and CSS.
