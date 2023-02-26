@@ -2,20 +2,20 @@ const container = document.querySelector('.container');
 const key_container = document.querySelector('.key-container');
 
 const keys = [
-  { letter: 'A', sound: 'clap', src: 'sounds/clap.wav', data_key: 'KeyA' },
-  { letter: 'S', sound: 'hihat', src: 'sounds/hihat.wav', data_key: 'KeyS' },
-  { letter: 'D', sound: 'kick', src: 'sounds/kick.wav', data_key: 'KeyD' },
+  { letter: 'A', sound: 'clap', src: '../../sounds/clap.wav', data_key: 'KeyA' },
+  { letter: 'S', sound: 'hihat', src: '../../sounds/hihat.wav', data_key: 'KeyS' },
+  { letter: 'D', sound: 'kick', src: '../../sounds/kick.wav', data_key: 'KeyD' },
   {
     letter: 'F',
     sound: 'openhat',
     src: 'sounds/openhat.wav',
     data_key: 'KeyF',
   },
-  { letter: 'G', sound: 'boom', src: 'sounds/boom.wav', data_key: 'KeyG' },
-  { letter: 'H', sound: 'ride', src: 'sounds/ride.wav', data_key: 'KeyH' },
-  { letter: 'J', sound: 'snare', src: 'sounds/snare.wav', data_key: 'KeyJ' },
-  { letter: 'K', sound: 'tom', src: 'sounds/tom.wav', data_key: 'KeyK' },
-  { letter: 'L', sound: 'tink', src: 'sounds/tink.wav', data_key: 'KeyL' },
+  { letter: 'G', sound: 'boom', src: '../../sounds/boom.wav', data_key: 'KeyG' },
+  { letter: 'H', sound: 'ride', src: '../../sounds/ride.wav', data_key: 'KeyH' },
+  { letter: 'J', sound: 'snare', src: '../../sounds/snare.wav', data_key: 'KeyJ' },
+  { letter: 'K', sound: 'tom', src: '../../sounds/tom.wav', data_key: 'KeyK' },
+  { letter: 'L', sound: 'tink', src: '../../sounds/tink.wav', data_key: 'KeyL' },
 ];
 
 keys.forEach((key) => {
